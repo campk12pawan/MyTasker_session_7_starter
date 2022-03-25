@@ -1,0 +1,6 @@
+first implement edit/:id route in  - > index.js
+add display code in  -> index.ejs
+
+implement -> /remove/:id route in index.js
+
+create and upate update.ejs
